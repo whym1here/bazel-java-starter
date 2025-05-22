@@ -1,0 +1,8 @@
+directories:
+  java/com/example
+
+targets:
+  //java/com/example:all
+
+additional_languages:
+  java

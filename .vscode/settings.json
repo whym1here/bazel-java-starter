@@ -1,0 +1,10 @@
+{
+  "java.jdt.ls.vmargs": "-XX:+UseParallelGC -Xmx1G",
+  "java.import.gradle.enabled": false,
+  "java.import.maven.enabled": false,
+  "java.project.referencedLibraries": [
+    "bazel-out/**/*.jar",
+    "external/**/*.jar"
+  ],
+  "bazel.executable": "/home/dhaval/go/bin/bazelisk"
+}
